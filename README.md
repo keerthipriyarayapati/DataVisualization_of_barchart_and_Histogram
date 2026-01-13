@@ -1,6 +1,6 @@
 ### SCT_DS_Task1
 
-#### 📌 Project Title: Data Visualization – Histogram and Bar Chart
+#### Project Title: Data Visualization – Histogram and Bar Chart
 
 #### Description : 
 This project demonstrates how to visualize data distributions using
@@ -20,7 +20,7 @@ Creating a bar chart for categorical data
 
 The dataset is processed and visualized using Python libraries in Google Colab.
 
-#### 🛠️Tools and Technologies Used
+#### Tools and Technologies Used
 Python
 
 Pandas
@@ -29,13 +29,13 @@ Matplotlib
 
 Google Colab
 
-#### 📊 Visualizations Implemented
+#### Visualizations Implemented
 
 1.Histogram for continuous data
 
 2.Bar chart for categorical data
 
-#### 📁 Files in Repository
+#### Files in Repository
 
 SCT_DS_1.ipynb (colab Notebook)
 
